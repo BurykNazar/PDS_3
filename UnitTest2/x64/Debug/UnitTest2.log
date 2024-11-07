@@ -1,0 +1,7 @@
+﻿  UnitTest2.cpp
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Бурик\Лаб_3\Lab3_V1_2\Source.cpp(20,54): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  UnitTest2.vcxproj -> C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Бурик\Лаб_3\Lab3_V1_2\x64\Debug\UnitTest2.dll
